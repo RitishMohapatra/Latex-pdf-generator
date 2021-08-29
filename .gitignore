@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+*.csv
+*.json
+misc*
+*.aux
+*.out
+*.pdf
+pdf/
+credential.py
+keys.json
